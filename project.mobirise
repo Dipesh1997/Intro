@@ -501,7 +501,7 @@
                 "alt": "Near By App UI",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "NearBy",
@@ -609,7 +609,7 @@
                 "alt": "Gamer User Profile",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
